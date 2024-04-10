@@ -4,13 +4,21 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/2024/04/09/%E5%AE%9E%E9%AA%8C/"/>
-    <url>/2024/04/09/%E5%AE%9E%E9%AA%8C/</url>
+    <title>实验三报告</title>
+    <link href="/2024/04/09/%E5%AE%9E%E9%AA%8C%E4%B8%89%E6%8A%A5%E5%91%8A/"/>
+    <url>/2024/04/09/%E5%AE%9E%E9%AA%8C%E4%B8%89%E6%8A%A5%E5%91%8A/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="实验三报告"><a href="#实验三报告" class="headerlink" title="实验三报告"></a>实验三报告</h1><p>这是我的实验三报告的内容。</p><h2 id="实验内容"><a href="#实验内容" class="headerlink" title="实验内容"></a>实验内容</h2><p>一、 安装 nodejs  之前已经安装过了，这里显示安装的版本号   <img src="/./%E5%AE%9E%E9%AA%8C%E4%B8%89%E6%8A%A5%E5%91%8A/1.png" alt="img">  </p><p>二、 配置Git全局用户的用户名和邮箱   <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" alt="img">   <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png" alt="img">  </p><p>三、 搭建 GiHub 博客   </p><ol><li><p>新建仓库  由于先前创建仓库的时候忘记截图了，现在给出一个示例  <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png" alt="img">  </p></li><li><p>配置 SSH key  验证是否连接成功  <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png" alt="img"></p></li></ol><p>四、 使用 Hexo 博客框架   </p><ol><li><p>安装与初始化  <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png" alt="img">   <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png" alt="img">  </p></li><li><p>生成静态文件  <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png" alt="img">  </p></li><li><p>本地预览  <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image013.png" alt="img">  hexo s 是开启本地预览服务，打开浏览器访问 <a href="http://localhost:4000/">http://localhost:4000</a> 即可看到内容，Ctrl+C 停止本地预览。本地预览可以实时查看博客的编辑情况，待博客写完后一起部署到 GitHub 上。   </p></li><li><p>上传到 GitHub<br>（1）打开根目录下站点配置文件 _config.yml，配置有关 deploy 的部分：  <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" alt="img">  （2）安装插件   <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png" alt="img">  </p><p>（3）部署到 GitHub   <img src="file:///C:/Users/z-jiuri/AppData/Local/Temp/msohtmlclip1/01/clip_image017.png" alt="img">  出现了和本地预览一样的效果，部署成功</p></li></ol><pre><code class="python"># 示例代码块def hello_world():    print(&quot;Hello, world!&quot;)hello_world()</code></pre>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>实验</tag>
+      
+      <tag>报告</tag>
+      
+    </tags>
     
   </entry>
   
@@ -18,8 +26,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="/2024/04/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2024/04/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <link href="/2024/04/09/%E5%AE%9E%E9%AA%8C/"/>
+    <url>/2024/04/09/%E5%AE%9E%E9%AA%8C/</url>
     
     <content type="html"><![CDATA[]]></content>
     
