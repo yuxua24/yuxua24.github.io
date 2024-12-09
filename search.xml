@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>ex10</title>
+      <link href="/2024/12/10/ex10/"/>
+      <url>/2024/12/10/ex10/</url>
+      
+        <content type="html"><![CDATA[<h2 id="淘宝购物平台的界面设计"><a href="#淘宝购物平台的界面设计" class="headerlink" title="淘宝购物平台的界面设计"></a>淘宝购物平台的界面设计</h2><h4 id="1、界面布局复杂"><a href="#1、界面布局复杂" class="headerlink" title="1、界面布局复杂"></a>1、界面布局复杂</h4><ul><li><strong>问题</strong>：淘宝首页有大量的信息和功能块，用户一进入页面后，会看到顶部的搜索框、导航栏、广告轮播图、各种分类推荐、猜你喜欢、品牌推荐、秒杀活动、店铺优惠等。很多信息堆砌在一起，用户很难迅速找到自己想要的功能或商品。</li><li><strong>批判性</strong>：高优先级，淘宝的首页是用户进入平台的第一印象，过于复杂的界面会导致用户产生疲劳感和迷茫感，从而影响购物体验。</li><li><strong>来源</strong>：淘宝首页布局复杂是因为它试图在有限的空间内展示尽可能多的信息和促销内容。设计时没有有效的优先级和信息层级划分。</li><li><strong>解决方案</strong><ul><li><strong>简化首页布局</strong>：通过减少过多的信息和广告元素，突出核心功能，如搜索框、分类导航、热销商品等。</li><li><strong>分区布局</strong>：将商品分类、推荐商品、促销活动等功能区域进行分区，并使用明确的区分线或背景色来划分不同区域，使每一部分信息清晰易懂。</li><li><strong>个性化展示</strong>：对于“猜你喜欢”和个性化推荐，可以采用滚动式展示，而不是将所有信息集中在首页，避免一开始就让用户感到信息过载。</li></ul></li><li><strong>预计改善</strong>：通过简化和优化首页布局，用户可以更快速地找到他们需要的商品或功能，减少不必要的视觉负担，提升用户的导航效率和满意度。</li></ul><h4 id="2、色彩搭配不协调"><a href="#2、色彩搭配不协调" class="headerlink" title="2、色彩搭配不协调"></a>2、<strong>色彩搭配不协调</strong></h4><ul><li><strong>问题</strong>：虽然淘宝在视觉设计中采用了鲜明的黄色、红色等高饱和度颜色，但这些颜色有时搭配不当，尤其是一些广告栏和商品推荐部分的背景颜色、按钮和文本之间的对比度问题可能让一些用户感到视觉上的不适。</li><li><strong>批判性</strong>：中等优先级，色彩搭配不协调不会直接影响系统功能，但会让一些用户感觉到不舒服，尤其是长时间浏览时。</li><li><strong>来源</strong>：淘宝在设计时过度使用了鲜艳的颜色来吸引用户的注意力，但这种做法没有很好地考虑整体的视觉和谐性，可能导致部分区域色彩冲突。</li><li><strong>解决方案</strong><ul><li><strong>色彩统一性</strong>：采用统一的色调和配色方案，减少不同色块之间的冲突。例如，可以将背景色统一为中性色（如浅灰或米色），突出主要按钮和促销区域时使用更鲜明的颜色（如红色或橙色）。</li><li><strong>合理的对比度</strong>：调整字体颜色与背景色的对比度，确保重要信息和按钮更加清晰可见。</li><li><strong>避免过度使用亮色</strong>：减少过多的红色、黄色、绿色等高饱和度颜色的使用，避免造成视觉疲劳。</li></ul></li><li><strong>预计改善</strong>：优化后的色彩搭配会使得整个页面的视觉效果更加和谐，减少用户的视觉疲劳，增强用户的舒适度，尤其是对于长期使用平台的用户而言，能够提升整体的用户体验。</li></ul><h4 id="总体陈述"><a href="#总体陈述" class="headerlink" title="总体陈述"></a>总体陈述</h4><p>通过对淘宝首页界面的布局简化和色彩搭配的优化，能够有效提升用户在首页的浏览体验，使得用户在第一时间能够集中注意力在核心功能上，而不是被过多的广告或促销信息干扰。同时，统一的色彩搭配和合理的对比度设计将提升视觉舒适感，使得用户的购物体验更加愉快。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ex6</title>
+      <link href="/2024/11/19/ex6/"/>
+      <url>/2024/11/19/ex6/</url>
+      
+        <content type="html"><![CDATA[<h3 id="团队名称"><a href="#团队名称" class="headerlink" title="团队名称"></a>团队名称</h3><p>四缺一欢迎加入</p><h3 id="项目介绍"><a href="#项目介绍" class="headerlink" title="项目介绍"></a>项目介绍</h3><p>我们的项目旨在设计一款简单易懂、互动性强的多人聚会游戏，解决传统社交游戏因复杂规则和低互动性而导致参与者无法充分融入的问题。通过优化游戏规则，确保每个玩家都能快速上手并享受其中，我们希望增强聚会中的社交互动，提升群体氛围的轻松愉快感。这款游戏适合不同兴趣和性格的人群，旨在让每个参与者都能在轻松的氛围中建立更深的友谊，缓解压力并促进交流。</p><h3 id="1-Flow-Model-描述人与人之间的关系"><a href="#1-Flow-Model-描述人与人之间的关系" class="headerlink" title="1. Flow Model 描述人与人之间的关系"></a>1. Flow Model 描述人与人之间的关系</h3><p><strong>Flow Model</strong>描述了张涛与他人互动的方式：</p><ul><li><p><strong>张涛与同学</strong>：张涛通过选择简单有趣且互动性强的游戏促进与同学之间的互动，增强友谊。</p></li><li><p><strong>张涛与游戏</strong>：张涛选择的游戏规则简单、易懂，且互动性强，以保证每个人都能参与，避免复杂的游戏规则阻碍参与感。</p></li><li><p><strong>同学与同学</strong>：通过游戏，张涛与同学之间的关系得到加强，互动增多，群体氛围更加轻松。</p><p><img src="/images/ex6/flow_model.png" alt="image-20241118171028497"></p></li></ul><h3 id="2-HMW-问题列表（至少6个）"><a href="#2-HMW-问题列表（至少6个）" class="headerlink" title="2. HMW 问题列表（至少6个）"></a>2. HMW 问题列表（至少6个）</h3><ol><li><strong>How might we</strong>设计简单易懂的游戏，确保每个玩家都能快速融入并享受游戏？</li><li><strong>How might we</strong>创建一个可以让每个参与者都能互动的多人聚会游戏？</li><li><strong>How might we</strong>减少复杂规则带来的困扰，使更多人能参与进来？</li><li><strong>How might we</strong>为不同兴趣和性格的人提供具有挑战性且不失乐趣的游戏？</li><li><strong>How might we</strong>设计一个能够让参与者感到轻松、有趣并且促进社交互动的游戏？</li><li><strong>How might we</strong>优化《狼人杀》类游戏的互动环节，避免部分玩家无法融入的情况？</li></ol><h3 id="3-Personas-代表主要利益相关者"><a href="#3-Personas-代表主要利益相关者" class="headerlink" title="3. Personas 代表主要利益相关者"></a>3. Personas 代表主要利益相关者</h3><p><strong>Persona 1: 张涛</strong></p><ul><li><strong>性别</strong>：男</li><li><strong>年龄</strong>：22岁</li><li><strong>学历</strong>：本科四年级</li><li><strong>背景</strong>：大学四年级学生，喜欢通过小游戏增进与同学的友谊，减轻学习压力</li><li><strong>动机</strong>：增强与朋友的互动，缓解压力</li><li><strong>游戏偏好</strong>：选择简单、有趣、互动性强的游戏，如《狼人杀》、《UNO》</li><li><strong>困扰</strong>：游戏规则复杂，互动性差，可能导致部分同学无法融入</li></ul><p><strong>Persona 2: 李娜</strong></p><ul><li><strong>性别</strong>：女</li><li><strong>年龄</strong>：21岁</li><li><strong>学历</strong>：本科三年级</li><li><strong>背景</strong>：对社交活动感兴趣，善于与人沟通，喜欢参与聚会游戏</li><li><strong>动机</strong>：寻找轻松有趣的聚会活动，享受与朋友的互动</li><li><strong>游戏偏好</strong>：喜欢《谁是卧底》这种简单易玩的游戏，但不喜欢过于激烈或复杂的游戏</li><li><strong>困扰</strong>：在多人聚会中，有些复杂游戏不容易迅速理解，导致自己无法参与</li></ul><h3 id="4-Storyboard-捕捉并展示体验"><a href="#4-Storyboard-捕捉并展示体验" class="headerlink" title="4. Storyboard 捕捉并展示体验"></a>4. Storyboard 捕捉并展示体验</h3><p><img src="/images/ex6/storyboard1.png" alt="image-20241118181148516"></p><p><img src="/images/ex6/storyboard1.png" alt="image-20241118215515528"></p><h3 id="5-修订问题陈述并提出解决方案"><a href="#5-修订问题陈述并提出解决方案" class="headerlink" title="5. 修订问题陈述并提出解决方案"></a>5. 修订问题陈述并提出解决方案</h3><p><strong>问题陈述</strong>：大学多人聚会中，传统的社交游戏有时因为复杂的规则和互动性差，导致参与者的参与感受受到影响，无法完全融入游戏氛围，影响聚会的整体氛围和参与度。</p><p><strong>解决方案</strong>：我们可以设计一款简单易懂且互动性强的聚会游戏，确保每位参与者都能快速上手并融入游戏中。游戏设计应避免复杂规则，提供更具社交性和娱乐性的元素，以便让聚会氛围更加轻松愉快。</p><p>贡献：李芷墨、秦兴路负责完成实验六，赵子毓、敖宇轩负责完成实验七</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ex5</title>
       <link href="/2024/11/05/ex5/"/>
       <url>/2024/11/05/ex5/</url>
